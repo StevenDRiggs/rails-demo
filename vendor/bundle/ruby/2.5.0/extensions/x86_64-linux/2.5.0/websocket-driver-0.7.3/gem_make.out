@@ -1,0 +1,15 @@
+current directory: /mnt/c/Users/fmvjo/dev/programming/demo/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/usr/share/rvm/rubies/ruby-2.5.7/bin/ruby -I /usr/share/rvm/rubies/ruby-2.5.7/lib/ruby/site_ruby/2.5.0 -r ./siteconf20210107-2791-178k7v7.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/fmvjo/dev/programming/demo/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /mnt/c/Users/fmvjo/dev/programming/demo/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /mnt/c/Users/fmvjo/dev/programming/demo/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20210107-2791-18shknv
